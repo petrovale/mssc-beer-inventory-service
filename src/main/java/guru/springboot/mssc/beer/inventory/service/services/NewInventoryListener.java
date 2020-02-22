@@ -3,7 +3,7 @@ package guru.springboot.mssc.beer.inventory.service.services;
 import guru.springboot.mssc.beer.inventory.service.config.JmsConfig;
 import guru.springboot.mssc.beer.inventory.service.domain.BeerInventory;
 import guru.springboot.mssc.beer.inventory.service.repositories.BeerInventoryRepository;
-import guru.springboot.mssc.common.events.NewInventoryEvent;
+import guru.sfg.brewery.model.events.NewInventoryEvent;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.jms.annotation.JmsListener;

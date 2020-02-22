@@ -1,4 +1,4 @@
-package guru.springboot.mssc.beer.inventory.service.web.model;
+package guru.sfg.brewery.model;
 
 import java.time.OffsetDateTime;
 import java.util.UUID;

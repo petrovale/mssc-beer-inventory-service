@@ -1,4 +1,4 @@
-package guru.springboot.mssc.common.events;
+package guru.sfg.brewery.model.events;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import java.io.Serializable;

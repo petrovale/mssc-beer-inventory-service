@@ -2,7 +2,7 @@ package guru.springboot.mssc.beer.inventory.service.web.controllers;
 
 import guru.springboot.mssc.beer.inventory.service.repositories.BeerInventoryRepository;
 import guru.springboot.mssc.beer.inventory.service.web.mappers.BeerInventoryMapper;
-import guru.springboot.mssc.beer.inventory.service.web.model.BeerInventoryDto;
+import guru.sfg.brewery.model.BeerInventoryDto;
 import java.util.List;
 import java.util.UUID;
 import java.util.stream.Collectors;
